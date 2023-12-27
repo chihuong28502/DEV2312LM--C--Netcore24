@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\bin\Debug\net6.0\DEV2312LM.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\bin\Debug\net6.0\DEV2312LM.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\bin\Debug\net6.0\DEV2312LM.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\bin\Debug\net6.0\DEV2312LM.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\bin\Debug\net6.0\DEV2312LM.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\refint\DEV2312LM.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\DEV2312LM.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\obj\Debug\net6.0\ref\DEV2312LM.dll
