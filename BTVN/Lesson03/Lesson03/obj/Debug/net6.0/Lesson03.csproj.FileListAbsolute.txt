@@ -1,0 +1,5 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03\obj\Debug\net6.0\Lesson03.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03\obj\Debug\net6.0\Lesson03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03\obj\Debug\net6.0\Lesson03.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03\obj\Debug\net6.0\Lesson03.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03\obj\Debug\net6.0\Lesson03.csproj.CoreCompileInputs.cache
