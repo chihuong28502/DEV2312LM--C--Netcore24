@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\bin\Debug\net6.0\Lesson03-Example.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\bin\Debug\net6.0\Lesson03-Example.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\bin\Debug\net6.0\Lesson03-Example.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\bin\Debug\net6.0\Lesson03-Example.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\bin\Debug\net6.0\Lesson03-Example.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\refint\Lesson03-Example.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\Lesson03-Example.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson03\Lesson03-Example\obj\Debug\net6.0\ref\Lesson03-Example.dll

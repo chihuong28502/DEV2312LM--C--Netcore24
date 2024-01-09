@@ -1,0 +1,10 @@
+﻿-- ngôn ngữ c#
+	+ Biến , Hằng, Toán tử, Toán hạng, Câu lệnh, Khối lệnh
+	
+- input/output : Console
+	+ Input: Read,ReadLine,ReadKey
+	+ Output: Write/ WriteLine
+-- cấu trúc đkhien: (3 loại)
+	+ Lựa chọn/ rẽ nhánh
+	+ Lặp
+	+ Lệnh nhảy

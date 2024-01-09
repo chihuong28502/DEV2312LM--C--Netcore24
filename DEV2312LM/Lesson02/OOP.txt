@@ -1,0 +1,6 @@
+﻿-- OOP:
+* Các tính chất của lập trình hướng đối tượng
+	+ inheristance : (:)
+	+ polymorphism : 
+	+ Abstraction :	
+	+ Enscapsolution : Phạm vi được sử dụng
