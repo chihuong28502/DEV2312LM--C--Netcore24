@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\bin\Debug\net6.0\BTVN.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\bin\Debug\net6.0\BTVN.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\bin\Debug\net6.0\BTVN.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\bin\Debug\net6.0\BTVN.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\bin\Debug\net6.0\BTVN.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\refint\BTVN.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\BTVN.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\BTVN\Lesson05-BTVN\BTVN\obj\Debug\net6.0\ref\BTVN.dll
