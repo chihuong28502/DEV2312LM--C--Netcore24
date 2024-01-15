@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\bin\Debug\net6.0\_6.3.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\bin\Debug\net6.0\_6.3.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\bin\Debug\net6.0\_6.3.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\bin\Debug\net6.0\_6.3.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\bin\Debug\net6.0\_6.3.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\refint\_6.3.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\_6.3.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\_6.3\obj\Debug\net6.0\ref\_6.3.dll
