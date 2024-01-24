@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\bin\Debug\net6.0\Dongvat.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\bin\Debug\net6.0\Dongvat.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\bin\Debug\net6.0\Dongvat.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\bin\Debug\net6.0\Dongvat.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\bin\Debug\net6.0\Dongvat.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\refint\Dongvat.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\Dongvat.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson05\Dongvat\obj\Debug\net6.0\ref\Dongvat.dll

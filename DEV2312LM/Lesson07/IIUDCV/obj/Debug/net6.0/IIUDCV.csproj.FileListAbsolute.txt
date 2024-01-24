@@ -1,0 +1,15 @@
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.csproj.AssemblyReference.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.AssemblyInfoInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.AssemblyInfo.cs
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.csproj.CoreCompileInputs.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\bin\Debug\net6.0\IIUDCV.exe
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\bin\Debug\net6.0\IIUDCV.deps.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\bin\Debug\net6.0\IIUDCV.runtimeconfig.json
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\bin\Debug\net6.0\IIUDCV.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\bin\Debug\net6.0\IIUDCV.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\refint\IIUDCV.dll
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.pdb
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\IIUDCV.genruntimeconfig.cache
+C:\Users\bigba\OneDrive\Desktop\DEV2312LM--C--Netcore24\DEV2312LM\Lesson07\IIUDCV\obj\Debug\net6.0\ref\IIUDCV.dll
